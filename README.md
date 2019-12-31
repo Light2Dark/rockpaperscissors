@@ -6,4 +6,10 @@ As for the game code itself, it's relatively simple. I didn't require too much t
 - Planning of steps before coding
 - Testing small bits of code to see if it works, but due to console showing which line it stops at, it makes it easy to see where it goes wrong haha.
 
+
+2ND UPDATE TO UI::
+- Really fun to implement UI for the game. CSS is tough but it really improves the design of stuff. In the future, I would like to:
+---- implement sound effects when hovering over object. Sound affects design so I wanna do alot of stuff with sound. 
+---- display results in a more fun way?
+
 -Special thanks to TheOdinProject.
