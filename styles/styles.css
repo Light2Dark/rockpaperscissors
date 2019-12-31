@@ -1,0 +1,70 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    color: rgb(0, 0, 83);
+}
+
+html {
+    background-color: rgba(219, 216, 216, 0.781);
+}
+
+button {
+    height: 15em;
+    width: 15em;
+    border: 2px solid rgb(136, 106, 175);
+    border-radius: 50%;
+    outline: none;
+    box-shadow: 0px 0px 3px black;
+    transition: all 0.2s;
+}
+
+button:hover {
+    border: 3px solid rgb(180, 255, 29);
+    box-shadow: 0px 0px 5px rgb(0, 0, 0);
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+#Rock {
+    display: fixed;
+    background-image: url("/home/shahmir/light_on_rails/rockpaperscissors/images/colourRock-LauraineMak.jpg");
+    background-size: cover;
+}
+
+#Scissors {
+    background-image: url("/home/shahmir/light_on_rails/rockpaperscissors/images/scissors(cut&shave).jpg");
+    background-size: cover;
+    margin-right: 4em;
+}
+
+#Paper {
+    background-image: url("/home/shahmir/light_on_rails/rockpaperscissors/images/Coloured,_textured_paper compressed.jpg");
+    background-size: cover;
+    margin-left: 4em;
+}
+
+.topSection {
+    text-align: center;
+}
+
+.bottomSection {
+    text-align: center;
+    margin-top: 1em;
+}
+
+.displayArea {
+    display: inline-block;
+    vertical-align: top;
+    height: 14em; width: 24em;
+    margin-top: 1em;
+    border: 1px dashed darkgrey;
+    word-wrap: break-word;
+    text-align: start;
+}
+
+#instructions {
+    color: rgb(194, 28, 28);
+    font-weight: bold;
+}
+
