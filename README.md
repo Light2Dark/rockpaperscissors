@@ -13,3 +13,8 @@ As for the game code itself, it's relatively simple. I didn't require too much t
 ---- display results in a more fun way?
 
 -Special thanks to TheOdinProject.
+
+Credits:
+- The Odin Project
+- Lauraine Mak for the picture of the colourful rock
+- Michael Maggs for the picture of paper

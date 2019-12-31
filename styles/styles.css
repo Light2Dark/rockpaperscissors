@@ -28,18 +28,18 @@ button:hover {
 
 #Rock {
     display: fixed;
-    background-image: url("/home/shahmir/light_on_rails/rockpaperscissors/images/colourRock-LauraineMak.jpg");
+    background-image: url("../images/colourRock-LauraineMak.jpg");
     background-size: cover;
 }
 
 #Scissors {
-    background-image: url("/home/shahmir/light_on_rails/rockpaperscissors/images/scissors(cut&shave).jpg");
+    background-image: url("../images/scissors(cut&shave).jpg");
     background-size: cover;
     margin-right: 4em;
 }
 
 #Paper {
-    background-image: url("/home/shahmir/light_on_rails/rockpaperscissors/images/Coloured,_textured_paper compressed.jpg");
+    background-image: url("../images/Coloured,_textured_paper compressed.jpg");
     background-size: cover;
     margin-left: 4em;
 }
